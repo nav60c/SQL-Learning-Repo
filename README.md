@@ -14,7 +14,7 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## 📚 Course Progress
 
-**Progress:** ██░░░░░░░░ 20%
+**Progress:**  ██░░░░░░░░ 20%
 
 ### ✅ Completed
 - SQL Basics
