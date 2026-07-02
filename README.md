@@ -14,7 +14,7 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## Course Progress
 
-| Topic | Status |
+| Topics Covered | Status |
 |--------|--------|
 | Introduction & SQL Basics | ✅ |
 | SELECT Statement | ✅ |
@@ -23,17 +23,13 @@ This repository documents my daily SQL learning journey while following the **SQ
 | GROUP BY | ✅ |
 | HAVING | ✅ |
 | DISTINCT | ✅ |
-| TOP / LIMIT | ⏳ |
-| Aggregate Functions | ⏳ |
+| TOP | ✅ |
+| Execution order vs Coding Order | ✅ |
 | Joins | ⏳ |
 | Subqueries | ⏳ |
-| Common Table Expressions (CTEs) | ⏳ |
-| Window Functions | ⏳ |
-| Views | ⏳ |
-| Stored Procedures | ⏳ |
-| Indexes | ⏳ |
-| Performance Optimization | ⏳ |
-| Projects | ⏳ |
+.
+.
+.
 
 ---
 
@@ -67,8 +63,7 @@ Each day contains:
 
 ## Learning Commitment
 
-- 1 hour of learning daily
-- Daily practice
+- Daily learning & practice
 - Regular GitHub commits
 
 ---
