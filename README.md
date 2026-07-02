@@ -7,12 +7,11 @@ This repository documents my daily SQL learning journey while following the **SQ
 - Learn SQL from beginner to advanced
 - Practice every day
 - Build consistency
-- Prepare for Data Analyst interviews
 - Showcase progress publicly on GitHub
 
 ---
 
-## 📚 Course Progress
+## Course Progress
 
 **Progress:**  ██░░░░░░░░ 20%
 
@@ -24,7 +23,7 @@ This repository documents my daily SQL learning journey while following the **SQ
 - DDL (CREATE, ALTER, DROP)
 - DML (INSERT, UPDATE)
 
-### 📖 Currently Learning
+### Currently Learning
 - DELETE
 ---
 
