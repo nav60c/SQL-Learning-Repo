@@ -12,34 +12,29 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ---
 
-## Course Progress
+## 📚 Course Progress
 
-| Topics Covered | Status |
-|--------|--------|
-| Introduction & SQL Basics | ✅ |
-| SELECT Statement | ✅ |
-| WHERE Clause | ✅ |
-| ORDER BY | ✅ |
-| GROUP BY | ✅ |
-| HAVING | ✅ |
-| DISTINCT | ✅ |
-| TOP | ✅ |
-| Execution order vs Coding Order | ✅ |
-| Joins | ⏳ |
-| Subqueries | ⏳ |
-.
-.
-.
+**Progress:** ██░░░░░░░░ 20%
 
+### ✅ Completed
+- SQL Basics
+- SELECT Statements
+- Filtering & Sorting (WHERE, ORDER BY)
+- DISTINCT & TOP
+- DDL (CREATE, ALTER, DROP)
+- DML (INSERT, UPDATE)
+
+### 📖 Currently Learning
+- DELETE
 ---
 
 ## Repository Structure
 
 ```
-Resources/
 day-01/
 day-02/
 ...
+Resources/
 projects/
 ```
 
