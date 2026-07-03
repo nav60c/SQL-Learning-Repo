@@ -1,6 +1,6 @@
 # SQL Learning Journey
 
-This repository documents my daily SQL learning journey while following the **[SQL Full Course for Beginners (30 Hours)]()** by Data with Baraa.
+This repository documents my daily SQL learning journey while following the **SQL Full Course for Beginners (30 Hours)** by Data with Baraa.
 
 ## Goals
 
