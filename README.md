@@ -13,19 +13,21 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## Course Progress
 
-**Progress:**  ██░░░░░░░░ 20%
+**Progress:**  ███░░░░░░░ 30%
 
 ### ✅ Completed
 - SQL Basics
 - SELECT Statements
-- Filtering & Sorting (WHERE, ORDER BY)
+- Filtering (WHERE Clause)
+- Sorting (ORDER BY)
 - DISTINCT & TOP
 - DDL (CREATE, ALTER, DROP)
-- DML (INSERT, UPDATE)
+- DML (INSERT, UPDATE, DELETE)
+- SQL Operators (Comparison, Logical, Between, Memebership, Search)
+- NO JOIN & INNER JOIN
 
-### Currently Learning
-- DELETE
----
+### 📖 Currently Learning
+- OUTER JOINs (LEFT, RIGHT, FULL)
 
 ## Repository Structure
 
