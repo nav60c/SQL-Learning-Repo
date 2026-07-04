@@ -13,21 +13,23 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## Course Progress
 
-**Progress:**  ███░░░░░░░ 30%
+**Progress:** ████░░░░░░ 37%
 
 ### ✅ Completed
 - SQL Basics
 - SELECT Statements
-- Filtering (WHERE Clause)
+- Filtering (WHERE)
 - Sorting (ORDER BY)
 - DISTINCT & TOP
 - DDL (CREATE, ALTER, DROP)
 - DML (INSERT, UPDATE, DELETE)
-- SQL Operators (Comparison, Logical, Between, Memebership, Search)
-- NO JOIN & INNER JOIN
+- SQL Operators (Comparison, Logical, BETWEEN, IN, LIKE)
+- SQL JOINs (NO, INNER, LEFT, RIGHT, FULL, LEFT ANTI, RIGHT ANTI, FULL ANTI, CROSS)
+- Joining Multiple Tables
+- Entity Relationship Diagrams (ERD)
 
 ### 📖 Currently Learning
-- OUTER JOINs (LEFT, RIGHT, FULL)
+- Set Operators (UNION, UNION ALL, INTERSECT, EXCEPT)
 
 ## Repository Structure
 
