@@ -13,7 +13,7 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## Course Progress
 
-**Progress:** █████░░░░░ 43%
+**Progress:** █████▌░░░░░░░ 47%
 
 ### ✅ Completed
 - SQL Basics
@@ -28,12 +28,13 @@ This repository documents my daily SQL learning journey while following the **SQ
 - Joining Multiple Tables
 - Entity Relationship Diagrams (ERD)
 - Set Operators (UNION, UNION ALL, INTERSECT, EXCEPT)
-
-### 📖 Currently Learning
 - Row-Level Functions
   - String Functions
   - Number Functions
   - Date & Time Functions
+
+### 📖 Currently Learning
+- Row-Level Functions
   - NULL Handling Functions
   - CASE Expression
 
