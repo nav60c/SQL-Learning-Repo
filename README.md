@@ -13,7 +13,7 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## Course Progress
 
-**Progress:** █████▌░░░░░░░ 47%
+Progress: ███░░░░░░░░░░░ 23%
 
 ### ✅ Completed
 - SQL Basics
@@ -23,20 +23,19 @@ This repository documents my daily SQL learning journey while following the **SQ
 - DISTINCT & TOP
 - DDL (CREATE, ALTER, DROP)
 - DML (INSERT, UPDATE, DELETE)
-- SQL Operators (Comparison, Logical, BETWEEN, IN, LIKE)
-- SQL JOINs (NO, INNER, LEFT, RIGHT, FULL, LEFT ANTI, RIGHT ANTI, FULL ANTI, CROSS)
+- SQL Operators
+- SQL JOINs
 - Joining Multiple Tables
 - Entity Relationship Diagrams (ERD)
-- Set Operators (UNION, UNION ALL, INTERSECT, EXCEPT)
+- Set Operators
 - Row-Level Functions
-  - String Functions
+  - Single-Row Functions
   - Number Functions
   - Date & Time Functions
 
 ### 📖 Currently Learning
 - Row-Level Functions
   - NULL Handling Functions
-  - CASE Expression
 
 ## Repository Structure
 
