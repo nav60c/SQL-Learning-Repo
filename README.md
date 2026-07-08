@@ -13,10 +13,10 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## Course Progress
 
-Progress: ███░░░░░░░░░░░ 23%
+Progress: ███░░░░░░░░░░░ 26%
 
 ### ✅ Completed
-- SQL Basics
+- SQL Basics 
 - SELECT Statements
 - Filtering (WHERE)
 - Sorting (ORDER BY)
