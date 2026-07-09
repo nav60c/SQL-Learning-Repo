@@ -13,7 +13,7 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## Course Progress
 
-Progress: ███░░░░░░░░░░░ 26%
+Progress: ███░░░░░░░░░░ 35%
 
 ### ✅ Completed
 - SQL Basics 
@@ -32,10 +32,11 @@ Progress: ███░░░░░░░░░░░ 26%
   - Single-Row Functions
   - Number Functions
   - Date & Time Functions
+  - NULL Handling Functions
 
 ### 📖 Currently Learning
 - Row-Level Functions
-  - NULL Handling Functions
+   - Case statement
 
 ## Repository Structure
 
