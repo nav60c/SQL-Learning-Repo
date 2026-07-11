@@ -13,7 +13,7 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## Course Progress
 
-Progress: ███░░░░░░░░░░ 35%
+Progress: ███░░░░░░░░░ 40%
 
 ### ✅ Completed
 - SQL Basics 
@@ -33,10 +33,15 @@ Progress: ███░░░░░░░░░░ 35%
   - Number Functions
   - Date & Time Functions
   - NULL Handling Functions
+  - Case statement
 
 ### 📖 Currently Learning
-- Row-Level Functions
-   - Case statement
+- Aggregation $ Analytical
+  - Aggregate Func.
+  - Window Basic
+  - window Aggregate Func.
+  - Window Ranking Func.
+  - Window Value func.
 
 ## Repository Structure
 
