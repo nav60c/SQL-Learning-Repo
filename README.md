@@ -13,7 +13,9 @@ This repository documents my daily SQL learning journey while following the **SQ
 
 ## Course Progress
 
-Progress: ███░░░░░░░░░ 40%
+██████░░░░░░░░░░░░░░ 29%
+
+8h:40m / 30h
 
 ### ✅ Completed
 - SQL Basics 
