@@ -38,12 +38,7 @@ This repository documents my daily SQL learning journey while following the **SQ
   - Case statement
 
 ### 📖 Currently Learning
-- Aggregation $ Analytical
-  - Aggregate Func.
-  - Window Basic
-  - window Aggregate Func.
-  - Window Ranking Func.
-  - Window Value func.
+- Day 12–18: SQL Revision & Practice + SQL notes
 
 ## Repository Structure
 
