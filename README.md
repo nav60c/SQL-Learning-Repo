@@ -38,7 +38,7 @@ This repository documents my daily SQL learning journey while following the **SQ
   - Case statement
 
 ### 📖 Currently Learning
-- Day 12–18: SQL Revision & Practice + SQL notes
+- After taking a break, I'm reviewing the fundamentals before continuing. Focusing on understanding rather than rushing through the course.
 
 ## Repository Structure
 
